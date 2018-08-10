@@ -48,6 +48,7 @@ Note: Registers A-F are only writeable if bit G4 is set.
 0R002 3.2W resistor 
 
 ### Calculating Temperature
+[Thermistor](http://uk.farnell.com/panasonic-electronic-components/ertj1vs104fa/thermistor-ntc-0603-100k/dp/1892612)
 
 
 ## Licence
